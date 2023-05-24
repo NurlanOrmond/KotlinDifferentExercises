@@ -11,5 +11,5 @@ fun sumRec(a: Int, b: Int): Int {
         sumRec(a - 1, b + 1)
 }
 fun main() {
-    println(sumRec(100, 200))
+    println(sumRec(2, 2))
 }

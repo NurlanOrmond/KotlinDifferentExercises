@@ -11,5 +11,5 @@ fun power(a: Int, b: Int): Int {
 }
 
 fun main() {
-    println(power(2, 3))
+    println(power(3, 5))
 }
